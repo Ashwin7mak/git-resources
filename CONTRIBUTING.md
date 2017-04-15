@@ -1,5 +1,5 @@
 # Contributing
-Thanks for your interest in this resource!
+Thanks for your interest in this resource! By participating in this project, you agree to abide by FreeCodeCamp-Sacramento's [code of conduct](https://github.com/FreeCodeCamp-Sacramento/freecodecamp-sacramento.github.io#code-of-conduct).
 
 ## How to Contribute
 
