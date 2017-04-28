@@ -10,6 +10,15 @@ Created By [Hylke Bons](https://github.com/hbons/git-cheat-sheet)
 - [FAQ and documentation for Github](https://help.github.com/)
 - [Official Docs for GitLab](https://docs.gitlab.com/)
 
+## Tutorials
+- [Github Tutorial](https://try.github.io/levels/1/challenges/1)
+- [Atlassian Tutorial](https://www.atlassian.com/git)
+- [Learn git Branching](http://learngitbranching.js.org/)
+- [Udacity Course on git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
+## Talks
+- [git for ages 4 and up](https://youtu.be/1ffBJ4sVUb4)
+
 ## Resources created by Sacramento campers
 - [Graduating From Codepen.io](https://goo.gl/UxlZ3I) - A presentation on setting up a local web development environment by [@lebilly](https://github.com/lebilly). Information regarding Git and Github starts on slide 42.
 
