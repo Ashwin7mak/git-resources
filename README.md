@@ -1,7 +1,7 @@
 # git-resources
 This is a curated collection of git resources by freecodecampers in Sacramento
 
-## Quick Git Cheet Sheet
+## Quick Git Cheat Sheet
 ![alt text](https://github.com/FreeCodeCamp-Sacramento/git-resources/blob/feature-git-cheat-sheet/assets/images/git-cheat-sheet.png "Git Cheat Sheet")
 Created By [Hylke Bons](https://github.com/hbons/git-cheat-sheet)
 
