@@ -22,5 +22,7 @@ Created By [Hylke Bons](https://github.com/hbons/git-cheat-sheet)
 ## Resources created by Sacramento campers
 - [Graduating From Codepen.io](https://goo.gl/UxlZ3I) - A presentation on setting up a local web development environment by [@lebilly](https://github.com/lebilly). Information regarding Git and Github starts on slide 42.
 
+- [Git Basics](https://docs.google.com/presentation/d/1YMts29n5Nazc1FaRqv8h4EStctLr_j4FlnalPuB_tYE/edit?usp=sharing) - A presentation on Git and Github Basics [@stancheta](https://github.com/stancheta).
+
 ## Contributing
 Please refer to [CONTRIBUTING.md](https://github.com/FreeCodeCamp-Sacramento/git-resources/blob/master/CONTRIBUTING.md). If there are parts of git/Github that you'd like more information about, feel free to add an issue.
